@@ -1,0 +1,3 @@
+nama: Billy Cessar Bimara
+umur: 23
+pekerjaan: Back End Developer
